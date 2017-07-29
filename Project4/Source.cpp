@@ -1,7 +1,7 @@
 #include <glut.h>
-//#include "freeglut.h"
-//#include "glew.h"
-//#include <freeglut_std.h>
+#include "freeglut.h"
+#include "glew.h"
+#include <freeglut_std.h>
 
  GLfloat xRotated, yRotated, zRotated;
 void init(void)
